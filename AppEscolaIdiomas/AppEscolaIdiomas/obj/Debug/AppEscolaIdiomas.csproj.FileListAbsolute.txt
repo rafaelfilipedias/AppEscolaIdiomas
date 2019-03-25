@@ -1,0 +1,135 @@
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe.config
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.pdb
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csprojAssemblyReference.cache
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmEnviarSenha.resources
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmLogin.resources
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.Properties.Resources.resources
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csproj.GenerateResource.cache
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csproj.CoreCompileInputs.cache
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.exe
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.pdb
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterIdioma.resources
+C:\Users\Varley\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmFuncionario.resources
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe.config
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.exe
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.pdb
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe.config
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.exe
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.pdb
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.pdb
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csprojResolveAssemblyReference.cache
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmEnviarSenha.resources
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmLogin.resources
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterAluno.resources
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterFuncionario.resources
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterIdioma.resources
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterProfessor.resources
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterTurma.resources
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmFuncionario.resources
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.Properties.Resources.resources
+\\srvacad\ARQUIVOS\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe.config
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.exe
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.pdb
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.pdb
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmEnviarSenha.resources
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmLogin.resources
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterAluno.resources
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterFuncionario.resources
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterIdioma.resources
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterProfessor.resources
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterTurma.resources
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmFuncionario.resources
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.Properties.Resources.resources
+C:\Users\Aluno\Desktop\AppEscolaIdiomas\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe.config
+C:\Users\Aluno\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.exe
+C:\Users\Aluno\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.pdb
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe.config
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.pdb
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csprojAssemblyReference.cache
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmEnviarSenha.resources
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmLogin.resources
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterAluno.resources
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterFuncionario.resources
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterIdioma.resources
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterProfessor.resources
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterTurma.resources
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmFuncionario.resources
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.Properties.Resources.resources
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csproj.GenerateResource.cache
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csproj.CoreCompileInputs.cache
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.exe
+C:\Users\Varley\Documents\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.pdb
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe.config
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.exe
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.pdb
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.pdb
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmEnviarSenha.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirAluno.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmLogin.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterAluno.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterFuncionario.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterIdioma.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterProfessor.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterTurma.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmFuncionario.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.Properties.Resources.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirIdioma.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirFuncionario.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirProfessor.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirTurma.resources
+C:\Users\Aluno\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmMenuAdm.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe.config
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.pdb
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csprojAssemblyReference.cache
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmEnviarSenha.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirAluno.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirFuncionario.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirIdioma.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirProfessor.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirTurma.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmLogin.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterAluno.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterFuncionario.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterIdioma.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterProfessor.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterTurma.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmMenuAdm.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmFuncionario.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.Properties.Resources.resources
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csproj.GenerateResource.cache
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csproj.CoreCompileInputs.cache
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.exe
+C:\Users\Varley\Downloads\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas - Rafael Dias e Anna Clara\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.pdb
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe.config
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.exe
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.pdb
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.exe
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\bin\Debug\AppEscolaIdiomas.pdb
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmEnviarSenha.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirAluno.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirFuncionario.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirIdioma.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirProfessor.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmExcluirTurma.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmLogin.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterAluno.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterFuncionario.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterIdioma.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterProfessor.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmManterTurma.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmMenuAdm.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.frmFuncionario.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.Properties.Resources.resources
+C:\Users\Aluno\Documents\AppEscolaIdiomas\AppEscolaIdiomas\obj\Debug\AppEscolaIdiomas.csproj.GenerateResource.Cache

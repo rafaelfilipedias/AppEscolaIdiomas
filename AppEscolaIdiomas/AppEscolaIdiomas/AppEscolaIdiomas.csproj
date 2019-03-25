@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{31038D0F-5949-489D-87F4-02EEC2694F6F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AppEscolaIdiomas</RootNamespace>
+    <AssemblyName>AppEscolaIdiomas</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassAcessoBD.cs" />
+    <Compile Include="ClassAluno.cs" />
+    <Compile Include="ClassFuncionario.cs" />
+    <Compile Include="ClassIdioma.cs" />
+    <Compile Include="ClassProfessor.cs" />
+    <Compile Include="ClassTurma.cs" />
+    <Compile Include="frmEnviarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnviarSenha.Designer.cs">
+      <DependentUpon>frmEnviarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExcluirAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExcluirAluno.Designer.cs">
+      <DependentUpon>frmExcluirAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExcluirFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExcluirFuncionario.Designer.cs">
+      <DependentUpon>frmExcluirFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExcluirIdioma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExcluirIdioma.Designer.cs">
+      <DependentUpon>frmExcluirIdioma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExcluirProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExcluirProfessor.Designer.cs">
+      <DependentUpon>frmExcluirProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExcluirTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExcluirTurma.Designer.cs">
+      <DependentUpon>frmExcluirTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManterAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManterAluno.Designer.cs">
+      <DependentUpon>frmManterAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManterFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManterFuncionario.Designer.cs">
+      <DependentUpon>frmManterFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManterIdioma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManterIdioma.Designer.cs">
+      <DependentUpon>frmManterIdioma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManterProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManterProfessor.Designer.cs">
+      <DependentUpon>frmManterProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManterTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManterTurma.Designer.cs">
+      <DependentUpon>frmManterTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuAdm.Designer.cs">
+      <DependentUpon>frmMenuAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuAssistente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuAssistente.Designer.cs">
+      <DependentUpon>frmMenuAssistente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmEnviarSenha.resx">
+      <DependentUpon>frmEnviarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExcluirAluno.resx">
+      <DependentUpon>frmExcluirAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExcluirFuncionario.resx">
+      <DependentUpon>frmExcluirFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExcluirIdioma.resx">
+      <DependentUpon>frmExcluirIdioma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExcluirProfessor.resx">
+      <DependentUpon>frmExcluirProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExcluirTurma.resx">
+      <DependentUpon>frmExcluirTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManterAluno.resx">
+      <DependentUpon>frmManterAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManterFuncionario.resx">
+      <DependentUpon>frmManterFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManterIdioma.resx">
+      <DependentUpon>frmManterIdioma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManterProfessor.resx">
+      <DependentUpon>frmManterProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManterTurma.resx">
+      <DependentUpon>frmManterTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuAdm.resx">
+      <DependentUpon>frmMenuAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuAssistente.resx">
+      <DependentUpon>frmMenuAssistente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
